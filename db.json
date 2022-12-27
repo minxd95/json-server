@@ -1,5 +1,10 @@
 {
-  "name": "서민석",
-  "age": "28",
-  "residence": "서울"
+  users:[
+    {
+      "id": 1,
+      "name": "서민석",
+      "age": 28,
+      "residence": "서울"
+    }
+  ]
 }
